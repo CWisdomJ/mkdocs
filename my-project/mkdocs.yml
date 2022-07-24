@@ -1,0 +1,6 @@
+site_name: CWisdomJ
+nav:
+    - Home: index.md
+    - About: 1.md
+    - LOVE: about.md
+
